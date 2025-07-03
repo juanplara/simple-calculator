@@ -57,3 +57,11 @@ button:active {
     transform: translateY(5px);
     box-shadow: none;
 }
+
+button:hover {
+    background-color: #c0392b;
+}
+
+button.function {
+    background-color: #f39c12;
+}
