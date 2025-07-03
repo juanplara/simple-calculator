@@ -65,3 +65,9 @@ button:hover {
 button.function {
     background-color: #f39c12;
 }
+
+button.zero {
+    width: 100%;
+    background-color: #e74c3c;
+    grid-column: span 2;
+}
