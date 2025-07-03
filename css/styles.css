@@ -75,3 +75,7 @@ button.zero {
 button.equals {
     background-color: #2ecc71;
 }
+
+button.clear {
+    background-color: #95a5a6;
+}
