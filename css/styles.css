@@ -71,3 +71,7 @@ button.zero {
     background-color: #e74c3c;
     grid-column: span 2;
 }
+
+button.equals {
+    background-color: #2ecc71;
+}
